@@ -4,22 +4,3 @@ TC Promotion ID,Value Stream,Namespace,Application Name,Environment,Build Name,B
 1433082,JH DABE,INFINITY GAUNTLET,ProductDetails,PRE-PROD,SMOKE TEST - DEV,0.0.1.11,SUCCESS,finished,9/28/2020 2:25,9/28/2020 2:26,22s,,,,AZWAPPTCAP07,https://teamcity.jhancock.com/viewLog.html?buildId=1433082&buildTypeId=JohnHancock_Aks_JhDabe_InfinityGuntlet_ProductDetails_PreProd_SmokeTestDev
 1433119,JH DABE,INFINITY GAUNTLET,ProductDetails,PRE-PROD,DEPLOY TO AKS : TEST ENV : US East 2,0.0.1.11,SUCCESS,finished,9/28/2020 2:29,9/28/2020 2:31,132s,,,pannego,AZWAPPTCAP07,https://teamcity.jhancock.com/viewLog.html?buildId=1433119&buildTypeId=JohnHancock_Aks_JhDabe_InfinityGuntlet_ProductDetails_PreProd_DeployToAksTestEnvUsEast2
 1433125,JH DABE,INFINITY GAUNTLET,ProductDetails,PRE-PROD,SMOKE TEST - TEST,0.0.1.11,FAILURE,finished,9/28/2020 2:31,9/28/2020 2:32,15s,,,pannego,AZWAPPTCAP07,https://teamcity.jhancock.com/viewLog.html?buildId=1433125&buildTypeId=JohnHancock_Aks_JhDabe_InfinityGuntlet_ProductDetails_PreProd_SmokeTestTest
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
